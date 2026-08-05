@@ -67,6 +67,8 @@ src/main/java/br/com/matheus/consultaclima
 └── ConsultaClimaApplication.java
 ```
 
+<img width="1536" height="1024" alt="Consulta Clima com JPA" src="https://github.com/user-attachments/assets/92a74a53-decd-47ed-b621-cef085efe823" />
+
 ## Autor
 
 Desenvolvido por Matheus Duarte.
