@@ -66,7 +66,6 @@ src/main/java/br/com/matheus/consultaclima
 │
 └── ConsultaClimaApplication.java
 ```
-```
 
 ## Autor
 
